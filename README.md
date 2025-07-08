@@ -7,6 +7,6 @@ This project implements an Image Captioning model using an Encoder-Decoder archi
 ## Features
 
 - Bahdanau (Additive) Attention Mechanism
-- Pretrained CNN Encoder (e.g., ResNet) for image feature extraction
+- Pretrained CNN Encoder (ResNet50) for image feature extraction
 - LSTM Decoder with attention-based sequence generation
 - Custom vocabulary building with frequency threshold
